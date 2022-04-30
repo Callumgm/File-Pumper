@@ -17,7 +17,7 @@ Very simple file pumper created in python
 
 
 ## Install Instructions
-- Either run source or compile to exe
+- Either run source or compile to ex
 
 
 ## Change Log
